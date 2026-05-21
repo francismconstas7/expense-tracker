@@ -1,0 +1,6 @@
+{
+  "name": "Sprout Expense Tracker",
+  "description": "A modern, highly polished, and clean expense tracker with a fresh white and green theme, offering smart category limits, monthly/yearly analytics, beautiful charts, and server-side Gemini AI for intelligent financial planning and instant receipt processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
