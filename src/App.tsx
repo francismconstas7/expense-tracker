@@ -338,6 +338,7 @@ export default function App() {
           >
             Budgets
           </button>
+          {/*
           <button
             onClick={() => setActiveTab('setup')}
             className={`flex-1 text-center py-2 px-1 text-[10px] font-extrabold uppercase tracking-widest rounded-xl transition-all ${
@@ -345,7 +346,7 @@ export default function App() {
             }`}
           >
             Deploy
-          </button>
+          </button> */}
         </div>
       </header>
 
